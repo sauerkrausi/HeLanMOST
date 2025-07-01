@@ -15,7 +15,6 @@ Lysosomal storage diseases (LSDs) encompass ~50 monogenic disorders characterize
 
 ## Contents
 
-- **`proteome/`**: R scripts for nDIA/nMOST data processing, differential expression, correlation analysis, and visualization.
 - **CellProfiler pipelines**:
   - `sf3d_4KO-FilipinEval.cppipe`
   - `sf5ab_Filipin_FTH1_DNAsyp555_HA_eval_v1.cppipe`
