@@ -6,7 +6,7 @@ This repository contains R scripts, ImageJ macros, CellProfiler pipelines, and s
 Science Advances (doi: 10.1126/sciadv.adu5787)
 
 
-📄 [Science Advances, 2024](https://www.science.org/doi/10.1126/sciadv.adu5787)  
+📄 [Science Advances, 2025](https://www.science.org/doi/10.1126/sciadv.adu5787)  
 📄 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.03.26.586828v2)  
 📋 [Protocols.io Collection](https://www.protocols.io/view/nmost-lsd-protocol-collection-v2-5qpvokmmzl4o/v2)
 
